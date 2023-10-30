@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap');
+
+body {
+  font-family: 'Nosifer', sans-serif;
+}
+div {
+  border: 1px solid red;
+}
+
+img {
+  border-radius: 50%;
+}
+
+.button {
+
+    border-top: 20px solid red;
+    border-right: 30px dotted black;
+    border-bottom: 30px dashed green;
+    border-left: 20px dotted black;
+
+    background: rgb(98, 93, 93);
+padding: 10px;
+border-radius: 5px;
+box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  }
